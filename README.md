@@ -15,6 +15,8 @@ Nalla Malla Reddy Engineering College
 
 2019 -- 2022
 
+CGPA: 6.19/10
+
 ### **Diploma, Mechanical Engineering**
 
 Government Polytechnic College, Yadagirigutta
