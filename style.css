@@ -10,6 +10,7 @@ body{
     margin-right: auto;
     width: 70%;
     text-align: center;
+    text-decoration-style:dotted;
    
     background-color: black;
     color: aliceblue;
@@ -28,9 +29,11 @@ body{
     margin-right: auto;
     width: 50%;
 }
-html{
-        background-image: url('\pictures\texture.jpg');
+body{
+    background-size: 100%;
+        
 }
+
 #professional{
     text-align: left;
     background-color: rgb(0, 44, 10);
